@@ -16,7 +16,7 @@
 
 <h1>Installation</h1>
 <p align="left">Simply clone this repository to your local machine using:</p>
-<p>git clone [https://github.com/your-username/guess-my-number.git](https://github.com/Esmer-Terishli/guess-my-number)</p>
+<p>git clone [https://github.com/your-username/guess-my-number.git]</p>
 
 <h1>Visit the Website</h1>
 - 📄 For more information and to play the game, visit [Guess My Number](https://esmer-terishli.github.io/guess-my-number/).
